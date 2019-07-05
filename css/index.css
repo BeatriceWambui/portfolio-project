@@ -21,7 +21,11 @@ background-color: orange;
 }
 
 img{
-  float: center;
+  float:right;
   border:5px solid black;
-  
+}
+
+#hobby{
+  text-align: center;
+  text-decoration: none;
 }
